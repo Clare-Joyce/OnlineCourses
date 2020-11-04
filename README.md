@@ -1,2 +1,2 @@
 # OnlineCourses
-This repository contains all exersices and projects of all online courses I have taken and those I am currently working on.
+This repository contains all exercises and projects I have implemented while taking online courses.
